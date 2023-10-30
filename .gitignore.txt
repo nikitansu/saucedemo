@@ -1,6 +1,0 @@
-misc.xml
-modules.xml
-profiles_settings.xml
-Project_Default.xml
-saucedemo.iml
-vcs.xml
